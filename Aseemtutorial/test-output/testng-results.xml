@@ -1,41 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="140" started-at="2017-08-10T19:26:26Z" finished-at="2017-08-10T19:26:26Z">
+  <suite name="Default suite" duration-ms="68" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="140" started-at="2017-08-10T19:26:26Z" finished-at="2017-08-10T19:26:26Z">
+    <test name="Default test" duration-ms="68" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
       <class name="TestNGex">
-        <test-method status="PASS" signature="Inbeforemethod1()[pri:0, instance:TestNGex@1b604f19]" name="Inbeforemethod1" is-config="true" duration-ms="31" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        <test-method status="PASS" signature="Inbeforemethod1()[pri:0, instance:TestNGex@9629756]" name="Inbeforemethod1" is-config="true" duration-ms="15" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Inbeforemethod1 -->
-        <test-method status="PASS" signature="Inbeforemethod()[pri:0, instance:TestNGex@1b604f19]" name="Inbeforemethod" is-config="true" duration-ms="0" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Inbeforemethod -->
-        <test-method status="PASS" signature="testReceiveMail()[pri:0, instance:TestNGex@1b604f19]" name="testReceiveMail" duration-ms="31" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        <test-method status="PASS" signature="testReceiveMail()[pri:0, instance:TestNGex@9629756]" name="testReceiveMail" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testReceiveMail -->
-        <test-method status="PASS" signature="Inaftermethod()[pri:0, instance:TestNGex@1b604f19]" name="Inaftermethod" is-config="true" duration-ms="0" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        <test-method status="PASS" signature="Inbeforemethod()[pri:0, instance:TestNGex@9629756]" name="Inbeforemethod" is-config="true" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Inbeforemethod -->
+        <test-method status="PASS" signature="Inaftermethod()[pri:0, instance:TestNGex@9629756]" name="Inaftermethod" is-config="true" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Inaftermethod -->
-        <test-method status="PASS" signature="testSendMail()[pri:2, instance:TestNGex@1b604f19]" name="testSendMail" duration-ms="0" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        <test-method status="PASS" signature="Inaftermethod()[pri:0, instance:TestNGex@9629756]" name="Inaftermethod" is-config="true" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- testSendMail -->
-        <test-method status="PASS" signature="Inaftermethod2()[pri:0, instance:TestNGex@1b604f19]" name="Inaftermethod2" is-config="true" duration-ms="0" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        </test-method> <!-- Inaftermethod -->
+        <test-method status="PASS" signature="Inaftermethod2()[pri:0, instance:TestNGex@9629756]" name="Inaftermethod2" is-config="true" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Inaftermethod2 -->
-        <test-method status="PASS" signature="Inaftermethod()[pri:0, instance:TestNGex@1b604f19]" name="Inaftermethod" is-config="true" duration-ms="0" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        <test-method status="PASS" signature="testSendMail()[pri:2, instance:TestNGex@9629756]" name="testSendMail" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Inaftermethod -->
-        <test-method status="PASS" signature="Inbeforemethod()[pri:0, instance:TestNGex@1b604f19]" name="Inbeforemethod" is-config="true" duration-ms="0" started-at="2017-08-11T00:56:26Z" finished-at="2017-08-11T00:56:26Z">
+        </test-method> <!-- testSendMail -->
+        <test-method status="PASS" signature="Inbeforemethod()[pri:0, instance:TestNGex@9629756]" name="Inbeforemethod" is-config="true" duration-ms="0" started-at="2019-01-10T19:00:35Z" finished-at="2019-01-10T19:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Inbeforemethod -->
